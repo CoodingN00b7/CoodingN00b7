@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, C, JavaScript (learning)  
+- **Languages:** Java, C, JavaScript (learning)  
 - **Web:** HTML, CSS, Django (exploring)  
 - **Tools:** Git, MySQL, VS Code  
 - **Areas of Interest:** AI, IoT, Cybersecurity  
